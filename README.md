@@ -1,9 +1,9 @@
 ## Paw-Tracks
 # 18-week project. ASP.Net MVC Core Web App for MSSA
 
-***
+
 Project Step #2 // Project Selection
-***
+
 
 # Introduction
 Austin, Texas is known for being an incredibly dog friendly city and there are many people who include their dogs in their day-to-day activities. It isn’t unusual to see people eating at a restaurant with their dog lying down by their feet or walking with their owners through the aisles of a grocery store. While seeing dogs and their owners almost everywhere may be a common occurrence in the city of Austin, the act of being active with your dog is also a great way to stay healthy and in shape anywhere. 
