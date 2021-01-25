@@ -1,10 +1,7 @@
 ## Paw-Tracks
 # 18-week project. ASP.Net MVC Core Web App for MSSA
 
-
-
-Project Step #2
-Project Selection
+Project Step #2 // Project Selection
 
 
 # Introduction
