@@ -2,7 +2,7 @@
 # 18-week project. ASP.Net MVC Core Web App for MSSA
 
 
-Project Step #2 // Project Selection
+Project Step #2 // Project Selection: https://docs.google.com/document/d/1O6Gd3L3eBXQaJGwfZV6mqd_4WbUySdqqaWTBQqWAeXw/edit
 
 
 # Introduction
