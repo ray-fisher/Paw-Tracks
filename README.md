@@ -45,5 +45,5 @@ It is largely a personal tracker for each user to use as they see fit.
 So each unique user will be the administrator for their own account. 
 Users will be able to edit, delete, and add more information to their entries if necessary.
 
-
+[Database Diagram]  </br>
 
